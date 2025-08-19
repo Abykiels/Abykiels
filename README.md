@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hola, soy Luis
+
+Soy ingeniero civil con pasión por la automatización, la gestión documental y el desarrollo de sistemas reales. Actualmente estoy aprendiendo PyQt6 y SQLite para construir apps funcionales.
+
+## 🚀 Proyectos destacados
+- [Gestor de pagos mensuales](https://github.com/tuusuario/proyecto-pagos)
+- [Bot de validación de datos](https://github.com/tuusuario/bot-validacion)
+
+## 🧠 Tecnologías
+`Python` `SQLite` `PyQt6` `Git` `Excel avanzado`
+
+## 📫 Contacto
+- LinkedIn: [TuNombre](https://linkedin.com/in/tunombre)
+- Correo: tunombre@ejemplo.com
+
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
